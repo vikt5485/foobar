@@ -14,15 +14,51 @@ html {
 
 body {
   margin: 0;
+  background-color: black;
+  color: white;
+  width: 100vw;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+p {
+  font-size: 2rem;
+}
+
+#speeder {
+  fill: white;
 }
 
 #needle {
   transform-box: fill-box;
-  -webkit-transform-origin: right;
-          transform-origin: right;
+  -webkit-transform-origin: center right;
+          transform-origin: center right;
   -webkit-transform: rotate(var(--deg));
           transform: rotate(var(--deg));
+  stroke: white;
   -webkit-transition: 0.5s all;
   transition: 0.5s all;
+}
+
+#speeder > circle.st6 {
+  stroke: white;
+}
+
+#live {
+  -webkit-animation-name: live;
+          animation-name: live;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
 }
 /*# sourceMappingURL=styles.css.map */

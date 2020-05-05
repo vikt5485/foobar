@@ -12,7 +12,7 @@ function start() {
 }
 
 function fetchSVG() {
-    fetch("svg/speed.svg", {
+    fetch("svg/speeder.svg", {
             method: "get"
         })
         .then(e => e.text())
@@ -34,7 +34,27 @@ function fetchData() {
 }
 
 function showData(data) {
-    document.querySelector("h1").textContent = "In queue: " + data.inQueue;
+    const inQueue = data.inQueue;
 
-    document.querySelector("#needle").style.setProperty('--deg', data.inQueue * 6 + 'deg');
+    document.querySelector("#speedometer").style.setProperty('--deg', inQueue * 6 + 'deg');
+
+
+    document.querySelectorAll("#speeder > g:nth-child(1) text").forEach(t => {
+        if (t.textContent === inQueue) {
+            console.log(t.textContent);
+
+            if (inQueue < 5) {
+                t.style.fill = "limegreen";
+            } else if (inQueue > 5 && inQueue < 15) {
+                t.style.fill = "yellow";
+            } else {
+                t.style.fill = "red";
+            }
+
+
+
+        } else {
+            t.style.fill = "white";
+        }
+    })
 }

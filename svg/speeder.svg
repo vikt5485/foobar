@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 563" style="enable-background:new 0 0 1366 563;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#006837;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:7;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:9;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:9;stroke-miterlimit:10;}
+	.st4{font-family:'Montserrat-SemiBold';}
+	.st5{font-size:30px;}
+	.st6{fill:none;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st7{fill:#00FFFF;}
+	.st8{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+	<g>
+		<rect x="-42" y="-1158" class="st0" width="1439" height="830"/>
+		<path d="M1396-1157v828H-41v-828H1396 M1398-1159H-43v832h1441V-1159L1398-1159z"/>
+	</g>
+	<path class="st1" d="M224-514c0-253.5,205.5-459,459-459s459,205.5,459,459"/>
+	<text transform="matrix(1 0 0 1 1160.2578 -513.54)" style="fill:#FFFFFF; font-family:'Roboto-Bold'; font-size:60px;">30</text>
+	<text transform="matrix(1 0 0 1 175.5722 -514.3739)" style="fill:#FFFFFF; font-family:'Roboto-Bold'; font-size:60px;">0</text>
+	<text transform="matrix(1 0 0 1 648.5764 -990.7311)" style="fill:#FFFFFF; font-family:'Roboto-Bold'; font-size:60px;">15</text>
+	<text transform="matrix(1 0 0 1 1019.6956 -848.7312)" style="fill:#FFFFFF; font-family:'Roboto-Bold'; font-size:60px;">22</text>
+	<text transform="matrix(1 0 0 1 348.0899 -861.7308)" class="st5" style="fill:#FFFFFF; font-family:'Roboto-Bold';">8</text>
+	<text transform="matrix(1 0 0 1 272.386 -779.8201)" class="st5" style="fill:#FFFFFF; font-family:'Roboto-Bold';">6</text>
+	<text transform="matrix(1 0 0 1 224.7039 -690.3497)" class="st5" style="fill:#FFFFFF; font-family:'Roboto-Bold';">4</text>
+	<text transform="matrix(1 0 0 1 191.9013 -596.4396)" class="st5" style="fill:#FFFFFF; font-family:'Roboto-Bold';">2</text>
+	<text transform="matrix(1 0 0 1 411.5193 -924.8312)" class="st5" style="fill:#FFFFFF; font-family:'Roboto-Bold';">10</text>
+	<text transform="matrix(1 0 0 1 507.0448 -966.8314)" class="st5" style="fill:#FFFFFF; font-family:'Roboto-Bold';">12</text>
+	<text transform="matrix(1 0 0 1 612.4495 -988.7225)" class="st5" style="fill:#FFFFFF; font-family:'Roboto-Bold';">14</text>
+	<circle class="st2" cx="683.5" cy="-527.5" r="36"/>
+	<line id="needle" class="st3" x1="683.5" y1="-527.5" x2="246.5" y2="-527.5"/>
+</g>
+<g id="speeder">
+	<g>
+		<text transform="matrix(1 0 0 1 219.7993 546.1855)" class="st4 st5">0</text>
+		<text transform="matrix(1 0 0 1 230.3147 494.4893)" class="st4 st5">1</text>
+		<text transform="matrix(1 0 0 1 227.2997 448.4894)" class="st4 st5">2</text>
+		<text transform="matrix(1 0 0 1 239.3571 401.024)" class="st4 st5">3</text>
+		<text transform="matrix(1 0 0 1 251.759 355.05)" class="st4 st5">4</text>
+		<text transform="matrix(1 0 0 1 276.2757 309.9474)" class="st4 st5">5</text>
+		<text transform="matrix(1 0 0 1 299.6303 270.5453)" class="st4 st5">6</text>
+		<text transform="matrix(1 0 0 1 331.9671 235.1989)" class="st4 st5">7</text>
+		<text transform="matrix(1 0 0 1 363.5355 197.0065)" class="st4 st5">8</text>
+		<text transform="matrix(1 0 0 1 403.475 165.0512)" class="st4 st5">9</text>
+		<text transform="matrix(1 0 0 1 434.8447 135.5504)" class="st4 st5">10</text>
+		<text transform="matrix(1 0 0 1 483.2502 114.0884)" class="st4 st5">11</text>
+		<text transform="matrix(1 0 0 1 525.2754 95.2882)" class="st4 st5">12</text>
+		<text transform="matrix(1 0 0 1 570.2756 84.2883)" class="st4 st5">13</text>
+		<text transform="matrix(1 0 0 1 615.304 76.8678)" class="st4 st5">14</text>
+		<text transform="matrix(1 0 0 1 664.3885 74.5057)" class="st4 st5">15</text>
+		<text transform="matrix(1 0 0 1 713.3522 77.0004)" class="st4 st5">16</text>
+		<text transform="matrix(1 0 0 1 762.1024 82.9825)" class="st4 st5">17</text>
+		<text transform="matrix(1 0 0 1 805.1511 94.4212)" class="st4 st5">18</text>
+		<text transform="matrix(1 0 0 1 851.0043 109.9969)" class="st4 st5">19</text>
+		<text transform="matrix(1 0 0 1 894.1857 129.5352)" class="st4 st5">20</text>
+		<text transform="matrix(1 0 0 1 937.5652 155.5353)" class="st4 st5">21</text>
+		<text transform="matrix(1 0 0 1 973.9005 185.347)" class="st4 st5">22</text>
+		<text transform="matrix(1 0 0 1 1009.598 219.7825)" class="st4 st5">23</text>
+		<text transform="matrix(1 0 0 1 1042.1393 259.904)" class="st4 st5">24</text>
+		<text transform="matrix(1 0 0 1 1069.6665 301.5231)" class="st4 st5">25</text>
+		<text transform="matrix(1 0 0 1 1089.5604 342.4822)" class="st4 st5">26</text>
+		<text transform="matrix(1 0 0 1 1107.923 390.065)" class="st4 st5">27</text>
+		<text transform="matrix(1 0 0 1 1119.6758 439.8026)" class="st4 st5">28</text>
+		<text transform="matrix(1 0 0 1 1125.4827 488.9095)" class="st4 st5">29</text>
+		<text transform="matrix(1 0 0 1 1127.752 538.6072)" class="st4 st5">30</text>
+	</g>
+	<circle class="st6" cx="683" cy="520" r="431"/>
+	<g>
+		<g>
+			<g>
+				<rect x="676.5" y="87.3" width="7" height="31.6"/>
+				<circle class="st7" cx="683.5" cy="513.7" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="708.5" y="101.7" transform="matrix(0.1063 -0.9943 0.9943 0.1063 542.7117 814.1677)" width="31.6" height="7"/>
+				<circle class="st7" cx="684.1" cy="513.8" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="752.3" y="108.4" transform="matrix(0.2114 -0.9774 0.9774 0.2114 496.3569 838.9988)" width="31.6" height="7"/>
+				<circle class="st7" cx="684.8" cy="513.9" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="795.1" y="119.8" transform="matrix(0.3141 -0.9494 0.9494 0.3141 439.2299 854.4766)" width="31.6" height="7"/>
+				<circle class="st7" cx="685.4" cy="514.1" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="836.6" y="135.6" transform="matrix(0.4132 -0.9106 0.9106 0.4132 373.4814 857.8309)" width="31.6" height="7"/>
+				<circle class="st7" cx="685.9" cy="514.4" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="876.1" y="155.8" transform="matrix(0.5077 -0.8616 0.8616 0.5077 301.8744 846.8059)" width="31.6" height="7"/>
+				<circle class="st7" cx="686.5" cy="514.8" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="913.2" y="180" transform="matrix(0.5964 -0.8027 0.8027 0.5964 227.6615 819.7851)" width="31.6" height="7"/>
+				<circle class="st7" cx="687" cy="515.2" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="947.5" y="208.1" transform="matrix(0.6783 -0.7348 0.7348 0.6783 154.438 775.8886)" width="31.6" height="7"/>
+				<circle class="st7" cx="687.4" cy="515.6" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="978.7" y="239.6" transform="matrix(0.7526 -0.6585 0.6585 0.7526 85.976 715.037)" width="31.6" height="7"/>
+				<circle class="st7" cx="687.8" cy="516.1" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1006.3" y="274.3" transform="matrix(0.8183 -0.5748 0.5748 0.8183 26.0493 637.9777)" width="31.6" height="7"/>
+				<circle class="st7" cx="688.2" cy="516.6" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1030.1" y="311.7" transform="matrix(0.8748 -0.4846 0.4846 0.8748 -21.7448 546.2745)" width="31.6" height="7"/>
+				<circle class="st7" cx="688.5" cy="517.2" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1049.8" y="351.5" transform="matrix(0.9213 -0.3888 0.3888 0.9213 -54.1587 442.2581)" width="31.6" height="7"/>
+				<circle class="st7" cx="688.7" cy="517.8" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1065.1" y="393.1" transform="matrix(0.9574 -0.2887 0.2887 0.9574 -68.4532 328.9418)" width="31.6" height="7"/>
+				<circle class="st7" cx="688.9" cy="518.4" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1076" y="436.1" transform="matrix(0.9827 -0.1853 0.1853 0.9827 -62.5356 209.9041)" width="31.6" height="7"/>
+				<circle class="st7" cx="689" cy="519.1" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<rect x="1082.2" y="480" transform="matrix(0.9968 -7.978611e-02 7.978611e-02 0.9968 -35.0713 89.1444)" width="31.6" height="7"/>
+				<circle class="st7" cx="689" cy="519.7" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<rect x="1096" y="511.9" transform="matrix(2.662052e-02 -0.9996 0.9996 2.662052e-02 542.6434 1612.7905)" width="7" height="31.6"/>
+				<circle class="st7" cx="689" cy="520.3" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1092.8" y="556.2" transform="matrix(0.1327 -0.9912 0.9912 0.1327 383.8432 1582.6204)" width="7" height="31.6"/>
+				<circle class="st7" cx="688.9" cy="521" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1084.9" y="599.8" transform="matrix(0.2373 -0.9714 0.9714 0.2373 232.0451 1526.7712)" width="7" height="31.6"/>
+				<circle class="st7" cx="688.7" cy="521.6" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1072.4" y="642.3" transform="matrix(0.3392 -0.9407 0.9407 0.3392 91.7698 1446.9479)" width="7" height="31.6"/>
+				<circle class="st7" cx="688.5" cy="522.2" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1055.4" y="683.3" transform="matrix(0.4373 -0.8993 0.8993 0.4373 -32.8827 1345.6942)" width="7" height="31.6"/>
+				<circle class="st7" cx="688.2" cy="522.8" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1034.2" y="722.3" transform="matrix(0.5304 -0.8477 0.8477 0.5304 -138.3924 1226.2906)" width="7" height="31.6"/>
+				<circle class="st7" cx="687.8" cy="523.3" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="1009" y="758.7" transform="matrix(0.6175 -0.7866 0.7866 0.6175 -221.9549 1092.6207)" width="7" height="31.6"/>
+				<circle class="st7" cx="687.4" cy="523.8" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="980.1" y="792.3" transform="matrix(0.6976 -0.7165 0.7165 0.6976 -281.5858 949.0122)" width="7" height="31.6"/>
+				<circle class="st7" cx="686.9" cy="524.2" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="947.7" y="822.6" transform="matrix(0.7698 -0.6382 0.6382 0.7698 -316.1899 800.0616)" width="7" height="31.6"/>
+				<circle class="st7" cx="686.4" cy="524.6" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="912.3" y="849.3" transform="matrix(0.8333 -0.5528 0.5528 0.8333 -325.5928 650.4474)" width="7" height="31.6"/>
+				<circle class="st7" cx="685.9" cy="525" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="874.3" y="872.1" transform="matrix(0.8874 -0.4611 0.4611 0.8874 -310.5327 504.7418)" width="7" height="31.6"/>
+				<circle class="st7" cx="685.3" cy="525.2" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="834" y="890.7" transform="matrix(0.9313 -0.3642 0.3642 0.9313 -272.6143 367.2295)" width="7" height="31.6"/>
+				<circle class="st7" cx="684.7" cy="525.4" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="792" y="904.9" transform="matrix(0.9648 -0.2631 0.2631 0.9648 -214.2255 241.7395)" width="7" height="31.6"/>
+				<circle class="st7" cx="684.1" cy="525.6" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="748.8" y="914.6" transform="matrix(0.9873 -0.1591 0.1591 0.9873 -138.422 131.4993)" width="7" height="31.6"/>
+				<circle class="st7" cx="683.5" cy="525.7" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<rect x="704.7" y="919.7" transform="matrix(0.9986 -5.322218e-02 5.322218e-02 0.9986 -48.7842 39.0168)" width="7" height="31.6"/>
+				<circle class="st7" cx="682.8" cy="525.7" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<rect x="648" y="932.3" transform="matrix(5.322218e-02 -0.9986 0.9986 5.322218e-02 -305.9556 1548.8917)" width="31.6" height="7"/>
+				<circle class="st7" cx="682.2" cy="525.6" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="603.9" y="927.9" transform="matrix(0.1591 -0.9873 0.9873 0.1591 -398.3957 1395.0804)" width="31.6" height="7"/>
+				<circle class="st7" cx="681.6" cy="525.5" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="560.5" y="918.9" transform="matrix(0.2631 -0.9648 0.9648 0.2631 -465.1595 1235.6836)" width="31.6" height="7"/>
+				<circle class="st7" cx="680.9" cy="525.3" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="518.3" y="905.2" transform="matrix(0.3642 -0.9313 0.9313 0.3642 -506.7097 1075.2468)" width="31.6" height="7"/>
+				<circle class="st7" cx="680.3" cy="525.1" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="477.8" y="887.2" transform="matrix(0.4611 -0.8874 0.8874 0.4611 -524.3466 918.0082)" width="31.6" height="7"/>
+				<circle class="st7" cx="679.8" cy="524.8" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="439.4" y="865" transform="matrix(0.5528 -0.8333 0.8333 0.5528 -520.1125 767.74)" width="31.6" height="7"/>
+				<circle class="st7" cx="679.3" cy="524.4" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="403.7" y="838.8" transform="matrix(0.6382 -0.7698 0.7698 0.6382 -496.668 627.6169)" width="31.6" height="7"/>
+				<circle class="st7" cx="678.8" cy="524" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="370.9" y="809" transform="matrix(0.7165 -0.6976 0.6976 0.7165 -457.1434 500.113)" width="31.6" height="7"/>
+				<circle class="st7" cx="678.4" cy="523.5" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="341.4" y="775.8" transform="matrix(0.7866 -0.6175 0.6175 0.7866 -404.974 386.9339)" width="31.6" height="7"/>
+				<circle class="st7" cx="678" cy="523" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="315.7" y="739.7" transform="matrix(0.8477 -0.5304 0.5304 0.8477 -343.7256 288.9855)" width="31.6" height="7"/>
+				<circle class="st7" cx="677.6" cy="522.4" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="293.9" y="701.1" transform="matrix(0.8993 -0.4373 0.4373 0.8993 -276.9206 206.3808)" width="31.6" height="7"/>
+				<circle class="st7" cx="677.4" cy="521.9" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="276.4" y="660.3" transform="matrix(0.9407 -0.3392 0.3392 0.9407 -207.8693 138.4835)" width="31.6" height="7"/>
+				<circle class="st7" cx="677.2" cy="521.2" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="263.3" y="618" transform="matrix(0.9714 -0.2373 0.2373 0.9714 -139.5177 83.9867)" width="31.6" height="7"/>
+				<circle class="st7" cx="677.1" cy="520.6" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="254.7" y="574.5" transform="matrix(0.9912 -0.1327 0.1327 0.9912 -74.316 41.021)" width="31.6" height="7"/>
+				<circle class="st7" cx="677" cy="520" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<rect x="250.9" y="530.3" transform="matrix(0.9996 -2.662052e-02 2.662052e-02 0.9996 -14.1151 7.2884)" width="31.6" height="7"/>
+				<circle class="st7" cx="677" cy="519.3" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<rect x="264.1" y="473.6" transform="matrix(7.978611e-02 -0.9968 0.9968 7.978611e-02 -241.6956 717.091)" width="7" height="31.6"/>
+				<circle class="st7" cx="677.1" cy="518.7" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="269.6" y="429.6" transform="matrix(0.1853 -0.9827 0.9827 0.1853 -215.2446 631.3044)" width="7" height="31.6"/>
+				<circle class="st7" cx="677.2" cy="518.1" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="279.8" y="386.5" transform="matrix(0.2887 -0.9574 0.9574 0.2887 -183.6575 557.4271)" width="7" height="31.6"/>
+				<circle class="st7" cx="677.4" cy="517.5" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="294.6" y="344.7" transform="matrix(0.3888 -0.9213 0.9213 0.3888 -149.9632 494.9327)" width="7" height="31.6"/>
+				<circle class="st7" cx="677.7" cy="516.9" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="313.7" y="304.7" transform="matrix(0.4846 -0.8748 0.8748 0.4846 -116.8657 442.6323)" width="7" height="31.6"/>
+				<circle class="st7" cx="678" cy="516.3" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="336.9" y="266.9" transform="matrix(0.5748 -0.8183 0.8183 0.5748 -86.6088 398.7733)" width="7" height="31.6"/>
+				<circle class="st7" cx="678.4" cy="515.8" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="364.1" y="231.8" transform="matrix(0.6585 -0.7526 0.7526 0.6585 -60.8662 361.1653)" width="7" height="31.6"/>
+				<circle class="st7" cx="678.8" cy="515.4" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="394.8" y="199.8" transform="matrix(0.7348 -0.6783 0.6783 0.7348 -40.6623 327.3269)" width="7" height="31.6"/>
+				<circle class="st7" cx="679.3" cy="514.9" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="428.7" y="171.3" transform="matrix(0.8027 -0.5964 0.5964 0.8027 -26.3275 294.6443)" width="7" height="31.6"/>
+				<circle class="st7" cx="679.8" cy="514.6" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="465.5" y="146.5" transform="matrix(0.8616 -0.5077 0.5077 0.8616 -17.4901 260.5371)" width="7" height="31.6"/>
+				<circle class="st7" cx="680.4" cy="514.3" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="504.6" y="125.8" transform="matrix(0.9106 -0.4132 0.4132 0.9106 -13.1042 222.6207)" width="7" height="31.6"/>
+				<circle class="st7" cx="681" cy="514" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="545.8" y="109.3" transform="matrix(0.9494 -0.3141 0.3141 0.9494 -11.5138 178.8585)" width="7" height="31.6"/>
+				<circle class="st7" cx="681.6" cy="513.8" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="588.5" y="97.4" transform="matrix(0.9774 -0.2114 0.2114 0.9774 -10.5482 127.6963)" width="7" height="31.6"/>
+				<circle class="st7" cx="682.2" cy="513.7" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="632.2" y="90" transform="matrix(0.9943 -0.1063 0.1063 0.9943 -7.646 68.1728)" width="7" height="31.6"/>
+				<circle class="st7" cx="682.9" cy="513.7" r="6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="676.5" y="87.3" width="7" height="31.6"/>
+				<circle class="st7" cx="683.5" cy="513.7" r="6"/>
+			</g>
+		</g>
+	</g>
+	<circle cx="682.2" cy="533.2" r="26.9"/>
+	<line id="needle" class="st8" x1="683" y1="534" x2="309" y2="534"/>
+</g>
+</svg>
