@@ -35,7 +35,6 @@ function fetchData() {
 
 function showData(data) {
     const inQueue = data.inQueue;
-
     document.querySelector("#speedometer").style.setProperty('--deg', inQueue * 6 + 'deg');
 
 

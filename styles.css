@@ -51,14 +51,8 @@ p {
   stroke: white;
 }
 
-#live {
-  -webkit-animation-name: live;
-          animation-name: live;
-  -webkit-animation-duration: 1s;
-          animation-duration: 1s;
-  -webkit-animation-iteration-count: infinite;
-          animation-iteration-count: infinite;
-  -webkit-animation-direction: alternate;
-          animation-direction: alternate;
+.st5 {
+  font-family: sans-serif;
+  font-weight: bold;
 }
 /*# sourceMappingURL=styles.css.map */
