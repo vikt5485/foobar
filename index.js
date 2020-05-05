@@ -29,7 +29,7 @@ function fetchData() {
         .then(e => {
             console.log(e);
             showData(e);
-            setTimeout(fetchData, 10000);
+            setTimeout(fetchData, 5000);
         });
 }
 
@@ -50,9 +50,6 @@ function showData(data) {
             } else {
                 t.style.fill = "red";
             }
-
-
-
         } else {
             t.style.fill = "white";
         }
