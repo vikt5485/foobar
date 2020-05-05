@@ -1,0 +1,28 @@
+:root {
+  --deg: 45deg;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+}
+
+#needle {
+  transform-box: fill-box;
+  -webkit-transform-origin: right;
+          transform-origin: right;
+  -webkit-transform: rotate(var(--deg));
+          transform: rotate(var(--deg));
+  -webkit-transition: 0.5s all;
+  transition: 0.5s all;
+}
+/*# sourceMappingURL=styles.css.map */
